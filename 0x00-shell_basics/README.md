@@ -1,1 +1,1 @@
-The long format
+A script that display current directory
