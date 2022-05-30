@@ -1,1 +1,1 @@
-My scipt
+A script that creates a file
