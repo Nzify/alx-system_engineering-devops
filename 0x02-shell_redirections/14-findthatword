@@ -1,3 +1,4 @@
-
 #!/bin/bash
-greg -i "root" /etc/passwd
+grep -i "root"  /etc/passwd
+
+
