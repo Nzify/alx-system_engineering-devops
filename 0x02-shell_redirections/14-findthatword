@@ -1,0 +1,3 @@
+
+#!/bin/bash
+greg -i "root" /etc/passwd
